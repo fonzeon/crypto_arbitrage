@@ -10,3 +10,5 @@ This analysis report presents a jupyter notebook that sorts through historical t
 
 High-level summary statistics and visualizations give rise to the conclusion of the anaysis:
 It appears that there were more abitrage opportunities early on, but the opportunities phased out as time went on.  This is could be caused by more arbitrage participants entering trades as time went on or other industry factors that reduced costs and profitability.
+
+![image](https://github.com/fonzeon/crypto_arbitrage/assets/7315911/b07a3d91-efcb-44f9-af0c-4e12278d57aa)
